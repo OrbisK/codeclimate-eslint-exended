@@ -1,0 +1,1 @@
+# codeclimate-eslint-exended
